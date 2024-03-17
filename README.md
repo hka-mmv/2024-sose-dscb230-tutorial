@@ -1,2 +1,2 @@
-# 2024-sose-dscb230-tutorial
-DSCB230 Tutorial
+# DSCB230 Tutorium im Sommersemester 2024  
+Aufgaben und Lösungen
